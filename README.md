@@ -8,7 +8,9 @@ tecnologias usadas:
 
 <br>
  
-  ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/Jeanlindemann/easy-shopping/assets/162126974/2c70fbde-f14c-4142-ba4b-74af1210e78e)
+![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/Jeanlindemann/easy-shopping/assets/162126974/3337b3a5-bf69-4548-9d9f-03d0cc5b020f)
+
+
  
   ![CSS-239120_style=for-the-badge logo=css3 logoColor=white](https://github.com/Jeanlindemann/easy-shopping/assets/162126974/1b6091e6-6ff0-4eee-a189-d53893e76dd2)
 <br>
